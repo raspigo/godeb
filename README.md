@@ -14,13 +14,7 @@ Installation and usage
 
 If you already have a Go toolset avaliable, run:
 
-    go get gopkg.in/niemeyer/godeb.v1/cmd/godeb
-
-Otherwise, there are pre-built binaries available for the
-[amd64](https://godeb.s3.amazonaws.com/godeb-amd64.tar.gz) and
-[386](https://godeb.s3.amazonaws.com/godeb-386.tar.gz).
-architectures
-
+    go get gopkg.in/raspigo/godeb.arm32/cmd/godeb
 
 License
 -------
