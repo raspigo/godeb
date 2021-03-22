@@ -14,7 +14,7 @@ Installation and usage
 
 If you already have a Go toolset avaliable, run:
 
-    go get gopkg.in/raspigo/godeb.arm32/cmd/godeb
+    go get -u github.com/raspigo/godeb
 
 License
 -------
